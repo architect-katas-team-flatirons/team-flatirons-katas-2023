@@ -13,7 +13,3 @@
 ### Architectural Style Preferred
 
 ![Image](../images/third-party-integrations/architecture-styles.jpg)
-
-### Relevant ADRs
-
-- 

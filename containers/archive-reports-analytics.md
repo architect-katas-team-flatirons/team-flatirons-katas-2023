@@ -13,7 +13,3 @@
 ### Architectural Style Preferred
 
 ![Image](../images/archive-analytics-reports/architecture-styles.jpg)
-
-### Relevant ADRs
-
-- 

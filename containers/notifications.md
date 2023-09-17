@@ -13,7 +13,3 @@
 ### Architectural Style Preferred
 
 ![Image](../images/notifications/architecture-styles.jpg)
-
-### Relevant ADRs
-
-- 

@@ -13,7 +13,3 @@
 ### Architectural Style Preferred
 
 ![Image](../images/gds-integrations/architecture-styles.jpg)
-
-### Relevant ADRs
-
-- 

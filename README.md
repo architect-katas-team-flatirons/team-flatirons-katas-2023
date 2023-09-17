@@ -105,7 +105,7 @@ The Component diagram shows how a container is made up of a number of "component
 * [Email Polling](./containers/email-polling.md)
 * [Notifications](./containers/notifications.md)
 * [GDS Integrations](./containers/gds-integrations.md)
-* [Archive, Reports & Analytics](./containers/archive-reports-analytics.md)
+* [Archive, Analytics & Reporting](./containers/archive-reports-analytics.md)
 * [Third Party Integrations](./containers/third-party-integrations.md)
 
 <a name="traceability-matrix"></a>

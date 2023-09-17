@@ -4,7 +4,7 @@
 
 ### Responsibilities
 
-1. 
+1. Send notifications should be sent to users on flight delays, reschedules, etc
 
 ### Driving Architectural Characteristics
 

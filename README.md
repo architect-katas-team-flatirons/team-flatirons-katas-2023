@@ -15,9 +15,9 @@
     - [Traceability Matrix](#traceability-matrix)
   - [UI Design](#ui-design)
   - [Deployment Architecture](#deployment-architecture)
+  - [Architectural Decision Records (ADRs)](#architectural-decision-records)
   - [About Team Flatirons](#about-the-team)
   - [Glossary](#glossary)
-  - [Architectural Decision Records (ADRs)](#architectural-decision-records)
   - [References](#references)
 
 

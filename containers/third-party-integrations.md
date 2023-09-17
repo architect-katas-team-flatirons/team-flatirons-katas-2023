@@ -1,4 +1,4 @@
-## User Profile Management
+## Component Diagram - Third Party Integrations
 
 ![Image](../images/third-party-integrations/component-diagram.png)
 

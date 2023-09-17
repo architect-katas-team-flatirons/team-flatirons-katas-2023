@@ -1,4 +1,4 @@
-## User Profile Management
+## Component Diagram - GDS Integrations
 
 ![Image](../images/gds-integrations/component-diagram.png)
 

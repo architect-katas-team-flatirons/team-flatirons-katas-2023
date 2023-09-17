@@ -1,4 +1,4 @@
-## User Profile Management
+## Component Diagram - Archive, Reports & Analytics
 
 ![Image](../images/archive-analytics-reports/component-diagram.png)
 

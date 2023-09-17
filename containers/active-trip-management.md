@@ -1,4 +1,4 @@
-## User Profile Management
+## Component Diagram - Active Trip Data Management
 
 ![Image](../images/active-trip-management/component-diagram.png)
 

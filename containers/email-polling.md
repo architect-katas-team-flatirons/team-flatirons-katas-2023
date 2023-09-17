@@ -1,4 +1,4 @@
-## User Profile Management
+## Component Diagram - Email Polling
 
 ![Image](../images/email-polling/component-diagram.png)
 

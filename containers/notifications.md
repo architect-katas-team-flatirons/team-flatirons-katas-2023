@@ -1,4 +1,4 @@
-## User Profile Management
+## Component Diagram - Notifications
 
 ![Image](../images/notifications/component-diagram.png)
 

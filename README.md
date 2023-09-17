@@ -13,6 +13,7 @@
     - [Level 2: Container Diagram](#container-diagram)
     - [Level 3: Component Diagram](#component-diagram)
     - [Traceability Matrix](#traceability-matrix)
+  - [UI Design](#ui-design)
   - [Deployment Architecture](#deployment-architecture)
   - [About Team Flatirons](#about-the-team)
   - [Glossary](#glossary)
@@ -98,7 +99,7 @@ We have also added an API layer to extract the publically accessible interface o
 
 <a name="component-diagram"></a>
 ### Level 3: Component Diagram
-The Component diagram shows how a container is made up of a number of "components", what each of those components are, their responsibilities and the technology/implementation details. Here the containers have been chosen to be at the "architectural quanta" level meaning they could be dpeloyed independently. For each of the containers a Component Diagram is provided, followed by identifying architecture characteristics and the appropriate architecture style.
+The Component diagram shows how each container is made up of a number of "components", what each of those components are, their responsibilities and the technology/implementation details. The previous diagram showed 8 distinct containers including the API layer. Since the API layer is simply a proxy, it does not include any domain specific functionality or perform any workflow orchestration, we can omit it from this section. For each of the containers a Component Diagram is provided, followed by identifying architecture characteristics and the appropriate architecture style.
 
 * [User Profile Management](./containers/user-profile-management.md)
 * [Active Trip Data Management](./containers/active-trip-management.md)
@@ -126,6 +127,12 @@ We have mapped all of the functional requirements to the components. The non-fuc
 | FR-11 | Must integrate with preferred travel agency for quick problem resolution (the ability to reach out to specific travel agencies for help) | GDS Integrations, Third Party Integrations |
 | FR-12 | Must work internationally | User Profile Management, Active Trip Data Management |
 | FR-13 | (Derived) Notifications should be sent to users on flight delays, reschedules, etc | User Profile Management, Active Trip Data Management, Notifications |
+
+<a name="ui-design"></a>
+## UI Design
+
+Since one of the specific requirements for this platform is a rich UI we recommend designing the presentation layer using the following UI/UX design elements
+![Image](./images/rich-ui-experience.png)
 
 
 <a name="deployment-architecture"></a>

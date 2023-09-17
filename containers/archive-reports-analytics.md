@@ -1,6 +1,6 @@
 ## User Profile Management
 
-![Image](../images/archive-analytics-reports/component-diagram.PNG)
+![Image](../images/archive-analytics-reports/component-diagram.png)
 
 ### Responsibilities
 

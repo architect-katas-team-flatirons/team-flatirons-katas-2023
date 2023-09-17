@@ -1,6 +1,6 @@
 ## User Profile Management
 
-![Image](../images/email-polling/component-diagram.PNG)
+![Image](../images/email-polling/component-diagram.png)
 
 ### Responsibilities
 

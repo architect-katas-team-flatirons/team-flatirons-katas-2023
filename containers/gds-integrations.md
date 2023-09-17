@@ -1,6 +1,6 @@
 ## User Profile Management
 
-![Image](../images/gds-integrations/component-diagram.PNG)
+![Image](../images/gds-integrations/component-diagram.png)
 
 ### Responsibilities
 

@@ -1,6 +1,6 @@
 ## User Profile Management
 
-![Image](../images/user-profile-management/component-diagram.PNG)
+![Image](../images/user-profile-management/component-diagram.png)
 
 ### Responsibilities
 

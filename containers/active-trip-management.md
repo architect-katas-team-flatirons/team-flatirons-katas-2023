@@ -1,6 +1,6 @@
 ## User Profile Management
 
-![Image](../images/active-trip-management/component-diagram.PNG)
+![Image](../images/active-trip-management/component-diagram.png)
 
 ### Responsibilities
 
@@ -14,7 +14,3 @@
 ### Architectural Style Preferred
 
 ![Image](../images/active-trip-management/architecture-styles.jpg)
-
-### Relevant ADRs
-
-- 
